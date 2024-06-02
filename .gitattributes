@@ -1,0 +1,4 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
+data/meta/epo_info.csv filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
