@@ -7,6 +7,9 @@ This thesis explores the intersection of neuroimaging and deep learning, through
 Due to the poor encoding performance, we cannot conclude exactly how our different model configurations impact the task of reconstructing EEG signals. However, we do not see any indications that the feature extraction of CNNs specifically poses a limitation in this context. The models display the ability to learn from the training data but are limited by overfitting and lack of generalization. For future work, we stress the importance of further research into metrics that can provide meaningful and interpretable comparisons of EEG signals, and suggest the need for a more systematic approach to model architecture experimentation.
 
 # Repository structure
+
+**NOTE!** This repository only contains the source code used in this project, and as such, the structure of this repository does not reflect the sturcture shown below. The full repository containing all data, source code and trained models is available through the repository on the ITU Enterprise Github only: [https://github.itu.dk/sibp/Thesis](https://github.itu.dk/sibp/Thesis).
+
     .
     ├── 📁 data                    # Raw EEG files and image metadata
     ├── 📁 preprocessed stimuli    # Preprocessed image files
