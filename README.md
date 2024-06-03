@@ -1,5 +1,5 @@
 # Domain Adaptation of Convolutional Neural Networks in Neuroimaging through EEG Signal Reconstruction
-Thesis in Master of Computer Science at the IT University of Copenhagen, Spring 2024. Authored by Mikkel Rahlff Bergreen and Simon Brage Petersen. Supervised by Paolo Burelli and Laurits Dixen of the [ITU brAIn lab](https://brainlab.itu.dk/).
+Thesis in Master of Computer Science at the IT University of Copenhagen, Spring 2024. Authored by Mikkel Rahlff Berggreen and Simon Brage Petersen. Supervised by Paolo Burelli and Laurits Dixen of the [ITU brAIn lab](https://brainlab.itu.dk/).
 
 ## Abstract
 
